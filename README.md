@@ -1,4 +1,4 @@
-# <div align="center">I'm Vitaliy, a full-time frontend/html developer 👨‍💻 
+# <div align="center">Hola! I'm Vitaliy, a full-time Frontend/HTML developer 👨‍💻 
   
 <div align="center">
 
