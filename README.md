@@ -49,7 +49,5 @@
 <br/>  
 
 <div align="center">
-<a href="xigga11@gmail.com" target="_blank" style="margin-top: 50px;">
 <img src=https://img.shields.io/badge/Mail-xigga11%40gmail.com-blue alt=instagram />
-</a>
 </div>
