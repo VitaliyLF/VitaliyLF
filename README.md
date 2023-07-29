@@ -20,19 +20,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,jquery,gulp,ps,figma,git&perline=3)](https://skillicons.dev)
 
-
-
-
 <br/>  
 
 <br/>  
 
-<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetosy&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vetosy&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetosy&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vetosy&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 
 ## Connect with me  
