@@ -1,4 +1,4 @@
-# <div align="center">Hola! I'm Vitaliy, a full-time Frontend/HTML developer 👨‍💻 
+# <div align="center">Hola! I'm Vitaliy, a full-time Frontend/HTML developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 <div align="center">
 
