@@ -16,30 +16,21 @@
   
 ## <div align="center">My Skill Set</div>  
 <div align="center">
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,jquery,gulp,ps,figma,git&perline=3)](https://skillicons.dev)
-
 <br/>  
 
+[![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scss&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gulp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
 <br/>  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetosy&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vetosy&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/vetos-711b13241" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/vetosy/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<br/>  
-
-<div align="center">
-<img src=https://img.shields.io/badge/Mail-xigga11%40gmail.com-blue alt=instagram />
-</div>
