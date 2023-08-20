@@ -1,4 +1,4 @@
-# <div align="center">Hola! I'm Vitaliy, a full-time Frontend/HTML developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+# <div align="center">Hola! I'm Vitaliy, a full-time Frontend/HTML developer <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="80">
   
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ⚡ I'm madly in love with movies.
 <br/>  
-
+https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 🕛 I'm always learning new things  
 
 🌲 I love coding, it helps me relax  
