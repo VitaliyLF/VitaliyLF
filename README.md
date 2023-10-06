@@ -24,7 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=gulp&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ps&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=webflow&perline=3)](https://skillicons.dev)
