@@ -14,7 +14,7 @@
 ## <div>My Skill Set</div>  
 <br/>  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,gulp,figma,git,github,gitlab,webflow,vscode&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,gulp,figma,git,github,gitlab,webflow,vscode&)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
