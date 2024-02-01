@@ -12,7 +12,6 @@
 </div>  
   
 ## <div>My Skill Set</div>  
-<br/>  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,figma,git,github,gitlab,vscode&)](https://skillicons.dev)
 
