@@ -2,10 +2,6 @@
 
 😎 I’m currently working on my IT projects
 
-
-⚡ I'm madly in love with movies.
-<br/>  
-
 🕛 I'm always learning new things  
 
 🌲 I love coding, it helps me relax  
