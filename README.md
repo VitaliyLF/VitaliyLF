@@ -9,7 +9,7 @@
   
 ## <div>My Skill Set</div>  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,gulp,figma,git,github,gitlab,vercel,netlify,vscode&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,gulp,figma,git,github,vercel,netlify,vscode&)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
