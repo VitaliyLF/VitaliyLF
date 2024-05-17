@@ -1,4 +1,4 @@
-# <div>Hola! I'm Vitaliy, a full-time Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+# <div>Hola!  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="80"> I'm Vitaliy, a full-time Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
 😎 I’m currently working on my IT projects
 
