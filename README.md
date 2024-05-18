@@ -7,7 +7,7 @@
 🌲 I love coding, it helps me relax  
 </div>  
   
-## <div>Stack</div>  
+## <div>My Stack</div>  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,gulp,figma,git,github,vercel,netlify,vscode&)](https://skillicons.dev)
 
