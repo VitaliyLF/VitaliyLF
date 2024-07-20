@@ -10,7 +10,7 @@
   
 ## <div>My Stack</div>  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,ts,react,redux,next,jest,vite,webpack,gulp,figma,git,bun,npm,netlify,vercel,prisma,vscode,windows&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,ts,react,redux,next,jest,vite,webpack,gulp,figma,git,bun,npm,netlify,vercel,supabase,prisma,vscode,windows&)](https://skillicons.dev)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitaliyLF&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
