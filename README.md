@@ -10,10 +10,23 @@
   
 ## <div>My Stack</div>  
 
+<div align="center" style="width: 100%;">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,ts,react,redux,next,jest,vite,webpack,gulp,figma,git,bun,npm,netlify,vercel,supabase,prisma,vscode,windows&)](https://skillicons.dev)
+
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=VitaliyLF&theme=transparent&hide_border=true" width="600px"  />
+</div>
+
+<div align="center">
+  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false" width="100%" />
+</div>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitaliyLF&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false)
 
+</div>
