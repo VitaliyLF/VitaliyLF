@@ -219,6 +219,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=VitaliyLF&theme=transparent&hide_border=true" width="600px"  />
 </div>
 
+<a href="https://app.daily.dev/vitaliystepnov"><img src="https://api.daily.dev/devcards/v2/puzioQ5w3pe2wydA1ln06.png?type=default&r=4m4" width="356" alt="Vitaliy Stepnov's Dev Card"/></a>
+
 <div align="center">
 <!--  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false" width="350px"  />  -->
 </div>
