@@ -175,6 +175,12 @@
       </a>
       <br>Tailwind
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTFP5nxXehZrk7fB5W_TaQ2TilhZdzNH8rSw&s"  width="36" height="36" alt="shadcn" />
+      </a>
+      <br>shadcn
+    </td>
   </tr> 
 </table>
 
