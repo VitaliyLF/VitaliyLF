@@ -138,6 +138,12 @@
       <br>Redux
     </td>
      <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJuxgGKGB16eTMEkHWupVKmyDhq8fY0Yjjw&s" width="36" height="36" alt="Tanstack query" />
+      </a>
+      <br>Tanstack query
+    </td>
+     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
