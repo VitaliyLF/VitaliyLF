@@ -133,9 +133,9 @@
     </td>
  <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux toolkit" />
       </a>
-      <br>Redux
+      <br>Redux toolkit
     </td>
      <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
@@ -165,7 +165,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfueYbOEmN_GOPg-T-k_cOZc83hJoNNUbrA&s" width="100" height="100" alt="Vite" />
       </a>
       <br>Vite
     </td> 
