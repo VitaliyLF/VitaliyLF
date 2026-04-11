@@ -227,7 +227,6 @@
      </td>
   </tr> 
 </table>
-<a href="https://app.daily.dev/vitaliystepnov"><img src="https://api.daily.dev/devcards/v2/puzioQ5w3pe2wydA1ln06.png?type=wide&r=0re" width="652" alt="Vitaliy Stepnov's Dev Card"/></a>
 </div>
 
 
