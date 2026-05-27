@@ -143,12 +143,6 @@
       </a>
       <br>Tanstack query
     </td>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
    <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
@@ -163,12 +157,6 @@
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfueYbOEmN_GOPg-T-k_cOZc83hJoNNUbrA&s" width="100" height="100" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
