@@ -213,6 +213,12 @@
       </a>
       <br>Prisma
      </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/p/postgresql-icon-vector-03.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Postgresql
+     </td>
   </tr> 
 </table>
 </div>
