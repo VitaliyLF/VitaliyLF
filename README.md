@@ -234,4 +234,6 @@
 
 ## LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Vetosy?ext=heatmap)](https://leetcode.com/u/Vetosy/)
+<a href="https://leetcode.com/u/Vetosy/">
+  <img src="https://leetcard.jacoblin.cool/Vetosy?ext=heatmap" width="700" alt="LeetCode Stats" />
+</a>
