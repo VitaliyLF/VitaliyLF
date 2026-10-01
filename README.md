@@ -231,9 +231,3 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false) -->
 </div>
 
-
-## LeetCode
-
-<a href="https://leetcode.com/u/Vetosy/">
-  <img src="https://leetcard.jacoblin.cool/Vetosy?ext=heatmap" width="700" alt="LeetCode Stats" />
-</a>
