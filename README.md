@@ -225,9 +225,10 @@
 
 
 <div align="center">
-<!--  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false" width="350px"  />  -->
+ <!-- <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false" width="350px"  />  -->
 </div>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitaliyLF&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false) -->
 </div>
 
+<!-- [![Codewars](https://www.codewars.com/users/VitaliyLF/badges/large)](https://www.codewars.com/users/VitaliyLF) -->
