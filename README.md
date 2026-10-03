@@ -7,6 +7,10 @@
 
 🌲 I love coding, it helps me relax  
 </div>  
+
+<h2 align="left"">Code Wars</h2>
+
+[![Codewars](https://www.codewars.com/users/VitaliyLF/badges/large)](https://www.codewars.com/users/VitaliyLF)
   
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
@@ -231,4 +235,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyLF&hide_progress=false) -->
 </div>
 
-<!-- [![Codewars](https://www.codewars.com/users/VitaliyLF/badges/large)](https://www.codewars.com/users/VitaliyLF) -->
+
